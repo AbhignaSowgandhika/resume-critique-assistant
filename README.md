@@ -12,6 +12,10 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ### Example Output:
+Here’s a preview of the app in action:
+
+![Resume Critique Assistant Screenshot](image.png)
+
 💬 Feedback
 Keyword Alignment (Medium): The resume includes several keywords found in the job description such as "data analysis," "project management," and "team leadership." However, some specific skills mentioned in the job description like "SQL" or "Tableau" are not explicitly listed in the candidate's skills section.
 
