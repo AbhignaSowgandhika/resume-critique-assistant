@@ -1,0 +1,37 @@
+About the job
+Company Description
+
+PhnyX Lab is a Silicon Valley AI startup on a mission to revolutionize the pharmaceutical and medical industries with cutting-edge generative AI. Founded in 2024 and backed by SK Networks (part of Korea’s SK Group, the second-largest conglomerate), we’re building South Korea’s first generative AI platform for medical and pharma use cases—Cheiron.
+Our Modular RAG architecture powers Cheiron with data from trusted sources like PubMed and Semantic Scholar, automating critical workflows for pharma leaders. Our founding team blends top Stanford AI researchers with industry veterans from McKinsey and other world-class organizations.
+
+
+Role Description
+
+As an AI/ML Engineer at PhnyX Lab, you’ll play a pivotal role in designing and building robust, scalable, and secure AI/ML pipelines—from prototype to production. You’ll work at the bleeding edge, researching SOTA methodologies, implementing best-in-class solutions, and collaborating across technical and business teams.
+
+
+Key Responsibilities:
+
+Architect, build, and maintain scalable and secure ML pipelines in production environments
+Conduct literature surveys and research to integrate SOTA approaches into our generative AI platform
+Define evaluation metrics and testing protocols for AI pipelines
+Analyze, document, and communicate findings to both technical and non-technical stakeholders
+Rapidly iterate and prototype to continuously improve system performance
+
+
+What we are looking for:
+
+Bachelor’s or higher in CS, ML, AI, or related field
+Experience with Generative AI, LLMs, and modern AI frameworks (e.g., PyTorch, TensorFlow, Hugging Face)
+Strong Python skills
+Proficiency with modern data storage (e.g., Pinecone, Elasticsearch, vector DBs)
+Excellent analytical and problem-solving skills
+Strong communication and team collaboration abilities
+
+
+Bonus
+
+Experience in healthcare, biotech, or pharma
+Knowledge of agentic orchestration (e.g., AutoGPT, BabyAGI)
+Published research or open-source contributions
+Start-up or fast-paced tech environment experience
